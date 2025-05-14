@@ -46,9 +46,15 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Acknowledgments
 
-Thank you to all contributors and researchers in the quantum computing field who have provided the foundation for this work.
+This repository includes code that is based in part on the work of Jan Rasmus Holst, developed during his Bachelor’s thesis:
 
+**J. R. Holst**, *“Quantum Approximate Optimization Algorithm for the Knapsack Problem,”* Bachelor’s thesis, Institut für Theoretische Physik, Leibniz Universität Hannover, 2023.  
+Available at: [https://www.itp.uni-hannover.de/fileadmin/itp/qinfo/Team_Tobias_Osborne/Bachelors_Theses/Jan_Rasmus_Holst_Bachelors_Thesis.pdf](https://www.itp.uni-hannover.de/fileadmin/itp/qinfo/Team_Tobias_Osborne/Bachelors_Theses/Jan_Rasmus_Holst_Bachelors_Thesis.pdf)
 
+Parts of the implementation in this repository were inspired by and adapted from Mr. Holst’s publicly available code, which is licensed under the BSD 3-Clause License:  
+[https://github.com/rhlst/qaoa-for-the-knapsack-problem](https://github.com/rhlst/qaoa-for-the-knapsack-problem)
 
+We gratefully acknowledge Mr. Holst’s prior work and the valuable discussions that took place before the preparation of the related publications.  
+All reused code components are used in compliance with the terms of the BSD 3-Clause License.
 
 
